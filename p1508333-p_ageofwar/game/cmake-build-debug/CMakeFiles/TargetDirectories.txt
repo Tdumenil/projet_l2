@@ -1,0 +1,3 @@
+/home/skugga/Documents/C++/jeu/p1508333-p_ageofwar/game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/skugga/Documents/C++/jeu/p1508333-p_ageofwar/game/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/skugga/Documents/C++/jeu/p1508333-p_ageofwar/game/cmake-build-debug/CMakeFiles/game.dir
